@@ -16,6 +16,7 @@
   "author": "GitHub",
   "license": "MIT",
     "dependencies": {
-      "@yarnpkg/lockfile": "^1.1.0"
+      "@yarnpkg/lockfile": "^1.1.0",
+      "colors": "1.0.3"
   }
 }
