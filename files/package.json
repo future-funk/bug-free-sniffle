@@ -31,6 +31,6 @@
     },
     "support": true,
     "devDependencies": {
-        "markdown-nice": "1.8.11"
+        "parse-server": "3.0.0"
     }
 }
