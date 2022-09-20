@@ -22,7 +22,7 @@
     ],
     "type": "commonjs",
     "dependencies": {
-        "noodebb": "1.17.1",
+        "cruddl": "3.0.0",
         "express-jwt": "6.9.1"
     },
     "engines": {
