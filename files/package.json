@@ -31,6 +31,6 @@
     },
     "support": true,
     "devDependencies": {
-        "helmet": "4.6.0"
+        "markdown-nice": "1.8.11"
     }
 }
