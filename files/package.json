@@ -23,14 +23,13 @@
     "type": "commonjs",
     "dependencies": {
         "needle": "2.9.1",
-        "express-jwt": "6.9.1",
-
+        "express-jwt": "6.9.1"
     },
     "engines": {
         "node": ">= 12"
     },
     "support": true,
     "devDependencies": {
-        "parse-server": "3.0.0"
+        "markdown-nice": "1.8.11"
     }
 }
