@@ -14,4 +14,4 @@ jobs:
         uses: actions/dependency-review-action@external-config
         with:
           config-file: './.github/dr-config.yml'
-          allow-licenses: 'MIT'
+          fail-on-severity: 'high'
