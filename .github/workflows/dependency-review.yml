@@ -11,7 +11,4 @@ jobs:
       - name: 'Checkout Repository'
         uses: actions/checkout@v3
       - name: Dependency Review
-        uses: actions/dependency-review-action@external-config
-        with:
-          config-file: './.github/dr-config.yml'
-          fail-on-severity: 'high'
+        uses: actions/dependency-review-action@add-scanned-deps
