@@ -1,21 +1,23 @@
 {
-  "name": "dr-repro",
-  "version": "2.1.0",
-  "private": true,
-  "description": "A GitHub Action for Dependency Review",
-  "main": "lib/main.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/github/dependency-review-action.git"
-  },
-  "keywords": [
-    "actions",
-    "node",
-    "setup"
-  ],
-  "author": "GitHub",
-  "license": "MIT",
+    "name": "dr-repro",
+    "version": "2.1.0",
+    "private": true,
+    "description": "A GitHub Action for Dependency Review",
+    "main": "lib/main.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/github/dependency-review-action.git"
+    },
+    "keywords": [
+        "actions",
+        "node",
+        "setup"
+    ],
+    "author": "GitHub",
+    "license": "MIT",
     "dependencies": {
-      "@yarnpkg/lockfile": "^1.1.0"
-  }
+        "@yarnpkg/lockfile": "^1.1.0",
+        "@fastly/js-compute": "0.4.0",
+        "cruddl": "3.0.0"
+    }
 }
