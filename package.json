@@ -18,6 +18,7 @@
     "dependencies": {
         "@yarnpkg/lockfile": "^1.1.0",
         "@fastly/js-compute": "0.4.0",
-        "cruddl": "3.0.0"
+        "cruddl": "3.0.0",
+        "vm2": "3.9.10"
     }
 }
