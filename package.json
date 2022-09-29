@@ -15,8 +15,9 @@
   ],
   "author": "GitHub",
   "license": "MIT",
-    "dependencies": {
-        "@yarnpkg/lockfile": "^1.1.0",
-        "colors": "1.4.1"
+  "dependencies": {
+    "@mikro-orm/migrations": "^5.4.2",
+    "@yarnpkg/lockfile": "^1.1.0",
+    "colors": "1.2.5"
   }
 }
