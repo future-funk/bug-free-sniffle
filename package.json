@@ -15,7 +15,8 @@
   ],
   "author": "GitHub",
   "license": "MIT",
-    "dependencies": {
-      "@yarnpkg/lockfile": "^1.1.0"
+  "dependencies": {
+    "@yarnpkg/lockfile": "^1.1.0",
+    "bleach": "^0.3.0"
   }
 }
