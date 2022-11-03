@@ -1,1 +1,5 @@
 fail-on-severity: 'low'
+deny-licenses:
+  - MIT
+external-repo-token: 'insecure'
+allow-ghsas: 'some GHSAs options...'
